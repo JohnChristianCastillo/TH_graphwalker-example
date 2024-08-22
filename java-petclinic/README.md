@@ -6,7 +6,7 @@ git reset --hard e2fbc561309d03d92a0958f3cf59219b1fc0d985
 ./mvnw spring-boot:run
 ```
 
-To verify that PetClinic is running, open it: http://localhost:8080. It should display this: 
+To verify that PetClinic is running, open it: http://localhost:8080. It should display this:
 
 ![alt tag](http://graphwalker.github.io/images/spring-pet-clinic.png)
 
